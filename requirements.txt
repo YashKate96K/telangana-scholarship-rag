@@ -1,0 +1,10 @@
+streamlit
+python-dotenv
+groq
+qdrant-client
+sentence-transformers
+rank-bm25
+pymupdf
+tiktoken
+pandas
+numpy
