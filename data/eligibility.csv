@@ -1,0 +1,25 @@
+scheme_id,income_ceiling_annual,age_limit,academic_criteria,caste_criteria,other_conditions
+SCH01,SC: Rs. 2.50 Lakhs (or Rs. 2.00 Lakhs in SCDD Guidelines); ST: Rs. 2.00 Lakhs; BC/EBC/Minorities (Urban): Rs. 2.00 Lakhs; BC (Rural): Rs. 1.50 Lakhs; PwD: Rs. 1.00 Lakh,"Inter: 24 yrs (SC/ST/BC), 20 yrs (Others); Degree: 29 yrs (SC/ST/BC), 25 yrs (Others); PG: 34 yrs (SC/ST/BC), 30 yrs (Others)",Post-matric courses of 1+ year duration approved by University/Board,"SC, ST, BC, EBC, Minorities, PwD",Convener Quota seat; Regular student; min 75% quarterly biometric attendance
+SCH02,Rs. 5.00 Lakhs,Max 35 years as on 1st July of ad year,Graduation with >= 60% marks; Valid GRE/GMAT/TOEFL/IELTS/PTE,SC Category,Only 1 child per family; Valid Passport & VISA to eligible countries
+SCH03,Rs. 20.00 Lakhs max grant,As per scheme rules,Meritorious academic record; foreign university admission,Minority communities,Admitted into master's/doctoral programs abroad
+SCH04,Rs. 20.00 Lakhs max grant,As per scheme rules,Meritorious academic record; foreign university admission,"BC, EBC",Admitted into postgraduate/research programs abroad
+SCH05,Rs. 2.00 Lakhs to Rs. 5.00 Lakhs,Below 35 years,Graduates / final-year degree students with > 60% marks,SC Category,1 member per family; Max 2 courses at single institute
+SCH06,No income limit,None,Pursuing Medical/Homeopathy/Dental/Engg/Agri/Vet/Poly/MBA/B.Ed/Pharmacy,SC Category,Registered regular college student
+SCH07,Below Rs. 2.00 Lakhs,School age,Studying Class IX or X in Govt./Local Body/Govt-aided schools,SC Category,Must produce MeeSeva caste certificate; No other scholarship
+SCH08,Below Rs. 2.00 Lakhs,School age,Studying Class V to VIII in Govt./Local Body/Govt-aided schools,SC Category,Scholarship granted once per class; Regular attendance
+SCH09,No income ceiling,School age,Enrolled in Classes I through X,Any caste/religion (Occupation-based),Parents engaged in scavenging/tanning/flaying/sweeping
+SCH10,Rural: Rs. 1.50 Lakhs; Urban: Rs. 2.00 Lakhs,School age,Admission into Class I (Day Scholar) or Class V (Residential),SC Category,1 child per family; 50% reserved for agricultural laborers/first-gen literacy
+SCH11,Rural: Rs. 1.50 Lakhs; Urban: Rs. 2.00 Lakhs,5 to 6 years as on 31st May,Admission into Class I at HPS Begumpet or Ramanthapur,SC Category,Max 2 children per family; Must clear medical test
+SCH12,Rs. 2.00 Lakhs,Below 36 years,Law graduate enrolled with Bar Council,SC Category,Selected by District Committee; Native of the district
+SCH13,SC: Rs. 2.00 Lakhs; BC/MW/EBC (Rural): Rs. 1.50 Lakhs; BC/MW/EBC (Urban): Rs. 2.00 Lakhs,Intermediate 1st year entry,Passed SSC with > 7.0 GPA from Govt/Govt-aided/Residential/KGBV schools,"SC (50%), ST (25%), BC (20%), Minorities (5%)",Residential mode only; 75% attendance mandatory
+SCH14,Rural: Rs. 1.50 Lakhs; Urban: Rs. 2.00 Lakhs,Class III to X age group,Enrolled in affiliated local schools,"SC 75%, SC-Xian 2%, BC 12%, ST 6%, Minorities 3%, OC/Others 2%",Distance > 5 km from home to hostel
+SCH15,Rs. 2.00 Lakhs,College age,Admitted into Post-Matric courses eligible for PMS,"SC 75%, SC-Xian 2%, BC 12%, ST 6%, Minorities 3%, OC/Others 2%",Must be eligible for Post-Matric Scholarship
+SCH16,Rural: Rs. 1.50 Lakhs; Urban: Rs. 2.00 Lakhs,School/College age,Boarders residing in Pre-Matric or Post-Matric Hostels,SC Hostel quota boarders,Valid hostel boarder admission
+SCH17,SC/ST/Minorities: Rs. 2.00 Lakhs; BC/EBC (Urban): Rs. 2.00 Lakhs; BC/EBC (Rural): Rs. 1.50 Lakhs,"Bride >= 18 yrs, Groom >= 21 yrs",None,"SC, ST, BC, EBC, Minority girls",Telangana resident; 1-time marriage grant; Apply >= 1 month prior
+SCH18,Rs. 2.00 Lakhs (combined),Bride >= 18 yrs,None,Minority girls,Resident of Telangana; 1-time marriage assistance
+SCH19,No income ceiling,"Bride >= 18 yrs, Groom >= 21 yrs",None,One spouse must belong to SC community,First marriage (unless widow/widower); Apply within 1 year; SC spouse native of TS
+SCH20,No income ceiling,None,Domestic power consumption 0 to 101 units/month,SC Category,Service meter connection must stand in the name of SC householder
+SCH21,"Rural: Rs. 20,000; Urban: Rs. 28,000",Adult,BPL Category,"SC 40%, BC 30%, ST 10%, Minorities 10%, Others 10%",Homeless poor identified under Indiramma Programme
+SCH22,No income ceiling,None,FIR registered under SC/ST (PoA) Act,SC or ST Victims,"Victim of atrocities, undetected offences, extremists, or police firing"
+SCH23,Below Rs. 3.00 Lakhs,Within UPSC age limits,Any General or Professional Degree,"SC 75%, ST 10%, BC 15%, PwD 5%, Minorities 4%",Selection via state-level entrance test; Full-time residential
+SCH24,Below Rs. 5.00 Lakhs,None,None,SC Category,Emergency need in sports/education not covered by existing schemes

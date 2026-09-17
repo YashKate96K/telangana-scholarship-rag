@@ -1,0 +1,6 @@
+course_group,group_name,course_coverage,annual_rtf_lower,annual_rtf_upper,eligible_for_pms
+Group-I,Professional Courses,"Degree & PG in Medicine, Engineering, Technology, Management, Agriculture, Veterinary, Business Finance/Admin, MCA/CS, CPL",23000,690000,Yes
+Group-II,Other Professional & Technical,"M.Phil, Ph.D., Post-Doctoral Research, PG Diplomas, Polytechnic, GNM, CA",3610,92000,Yes
+Group-III,General Academic Courses,"BA, B.Com, B.Sc, and allied academic degrees not covered in Group I & II",1500,20000,Yes
+Group-IV,Intermediate & Vocational,"Intermediate (10+2), ITI, ITCs, Vocational Courses, MPHW",850,16400,Yes
+Ineligible,Non-Eligible Programs,"Aircraft Maintenance Engineer's (AME), Private Pilot License (PPL), Correspondence / Distance Education, Open University, Courses <= 1 year, PETC coaching, Second UG/PG Degree",0,0,No

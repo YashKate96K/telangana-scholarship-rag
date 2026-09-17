@@ -1,0 +1,5 @@
+group,courses,cah_monthly_rate,dah_monthly_rate,smh_and_ds_monthly_rate
+Group-I,"Engg., Medicine, MBA, MCA, CPL",1500,1200,650
+Group-II,"PG, M.Phil, Ph.D, CA, Polytechnic, GNM",1500,1050,650
+Group-III,Degree,1000,1050,500
+Group-IV,"Intermediate, ITI, Vocational, MPHW",750,1050,500

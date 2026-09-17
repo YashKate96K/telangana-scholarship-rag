@@ -1,0 +1,24 @@
+scheme_id,benefit_type,financial_amount,frequency,disbursement_mode,remarks
+SCH01,Tuition Reimbursement (RTF),"Group I: Rs. 23,000 - 6,90,000; Group II: Rs. 3,610 - 92,000; Group III: Rs. 1,500 - 20,000; Group IV: Rs. 850 - 16,400",Annual,Direct to College Bank A/c,100% reimbursement for SC/ST/Minority/Govt college alumni/EAMCET <=10k
+SCH01,Maintenance Charges (MTF),"Group I: CAH Rs. 1200-1500, SMH Rs. 1500, DS Rs. 650; Group II: CAH Rs. 820-1500, SMH Rs. 1500, DS Rs. 650; Group III: CAH Rs. 570-1000, SMH Rs. 1000, DS Rs. 500; Group IV: CAH Rs. 520-750, SMH Rs. 750, DS Rs. 500; DAH: Rs. 1500",Monthly,DBT to Student Bank A/c,Green Channel DAH MTF maintained by HWO
+SCH02,Overseas Scholarship,"Up to Rs. 20.00 Lakhs (or I-20 actuals) + Rs. 50,000 flight + VISA fee",Per Course (2 Instalments),DBT to Student Savings A/c,Instalment 1: Rs. 10L on arrival; Instalment 2: Rs. 10L on Sem 1 results
+SCH05,Exam Coaching Fee,"GRE: Rs. 9,000 (100 hrs); GMAT: Rs. 23,000 (100 hrs); TOEFL: Rs. 5,000 (60 hrs); IELTS: Rs. 4,200 (60 hrs)",Per Course (2 Instalments),To Empanelled Institute,Instalment 1 after 50 hrs attendance; Instalment 2 after mock test
+SCH06,Textbook Grant,"Medical/Engg: Rs. 7,500; Vet: Rs. 5,000; Agri: Rs. 4,500; Diploma: Rs. 2,400; Others: Rs. 2,000",One-time / Annual,To College Library Book Bank,Procured via district tender
+SCH07,Pre-Matric Scholarship,"Rs. 3,000 per annum",Annual,DBT to Student Bank A/c,For Day Scholars of Classes IX & X
+SCH08,Pre-Matric Scholarship,"Boys: Rs. 100/month (Rs. 1,000/yr); Girls: Rs. 150/month (Rs. 1,500/yr)",Monthly (10 months/year),DBT to Student Bank A/c,For Day Scholars of Classes V to VIII
+SCH09,Pre-Matric & Ad-hoc Grant,Scholarship: Rs. 225/month; Ad-hoc grant: Rs. 750/annum,Monthly & Annual,DBT to Student Bank A/c,For day-boarder children of workers in unclean occupations
+SCH10,School Fees & Maintenance,"Non-residential: Rs. 20,000 - 28,000 p.a.; Residential: Rs. 30,000 - 42,000 p.a.",Annual (3 Instalments),To School Bank A/c,"Includes tuition fees, books, uniforms, and boarding"
+SCH11,School Fee & Uniform Allowance,"Tuition: Rs. 90,000 - 2,00,000 p.a.; Uniform: Rs. 1,500 (Boys); Maintenance: Rs. 10,750 p.a. (Girls)",Annual,To HPS A/c & Student A/c,Day scholars and hostellers from Class I to XII
+SCH12,Stipend & Infrastructure,"Stipend: Rs. 1,000/month; Books/Furniture: Rs. 6,000 one-time; Enrollment fee: Actuals",Monthly & One-time,DBT to Advocate Bank A/c,36 months total training duration
+SCH13,Corporate College Package,"Rs. 35,000 tuition fee + Rs. 3,000 pocket expenses (Rs. 38,000 total p.a.)",Annual (2 Instalments),College A/c & Student A/c,"Covers residential tuition, books, mess, and IIT/EAMCET coaching"
+SCH14,Hostel Boarding & Amenities,"Diet: Rs. 950-1,100/mo; Cosmetics: Rs. 50-75/mo; Super-fine rice Rs. 1/kg; 4 dress pairs; Bedding Rs. 720",Monthly & In-kind,Department / In-kind,"Free boarding, lodging, special tuition, and uniforms"
+SCH15,College Hostel Boarding,"Diet: Rs. 1,500/mo; Pocket money: Rs. 500/mo; Super-fine rice Rs. 1/kg; Bunker beds, RO plants",Monthly & In-kind,Department / In-kind,Free boarding and amenities for post-matric boarders
+SCH16,Hostel Amenities Package,"Mattress/pillow: Rs. 1,500; Blanket: Rs. 400; Shoes: Rs. 400; Socks: Rs. 105; School bag: Rs. 300; Bunker bed: Rs. 8,000",In-kind,In-kind,Distributed to enrolled hostel boarders
+SCH17,Marriage Assistance,"Rs. 1,00,116 (Standard); Rs. 1,25,145 (Disabled bride)",One-time,Cheque in mother's name,Disbursed by local MLA
+SCH18,Marriage Assistance,"Rs. 1,00,116",One-time,Cheque / DBT,For unmarried minority brides
+SCH19,Inter-Caste Marriage Incentive,"Rs. 2,50,000",One-time,Joint Fixed Deposit (3-yr lock-in),Joint FD in couple's name (bride's name first)
+SCH20,Electricity Subsidy,Full payment of actual electricity consumption bills up to 101 units,Monthly,Reimbursement to DISCOMs,Disbursed via ePASS to DISCOM directly
+SCH21,Housing Land Grant,House site plot up to 150 sq. yards,One-time,Physical allotment,Land distributed under Indiramma Programme
+SCH22,Atrocity Relief,"Murder/Gang Rape: Rs. 8,25,000; Rape: Rs. 5,00,000; Acid burn: Rs. 85,000 - 8,25,000; Pension: Rs. 5,00,000/mo",Staged (25/50/25% or 50/50%),DBT by District Collector,"Includes employment, pensions, and food provisions"
+SCH23,Civil Services Coaching Support,Full free residential coaching + books + personal allowance (~Rs. 2.08 - 2.18 Lakhs/candidate/yr),Course duration,In-kind & DBT,"Prelims (9-10 mos), Mains (3-4 mos), Delhi interview support"
+SCH24,Emergency Welfare Assistance,Up to Rs. 2.00 Lakhs (Collector); Rs. 2.00 - 5.00 Lakhs (HOD); Above Rs. 5.00 Lakhs (Govt),One-time,DBT to Applicant A/c,For SC individuals in emergent medical/sports/education distress

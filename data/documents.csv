@@ -1,0 +1,44 @@
+scheme_id,document_name,issuing_authority,mandatory,purpose
+SCH01,Caste Certificate,MeeSeva / Revenue Department,Yes,Social status verification
+SCH01,Income Certificate,MeeSeva / Revenue Department,Yes,Income ceiling eligibility validation
+SCH01,Bonafide / Study Certificate,Concerned College / University,Yes,Proof of regular study and bonafide student status
+SCH01,CET Seat Allotment Order,Convener (EAMCET/ICET/ECET/etc.),Yes,Verification of Convener Quota admission
+SCH01,Bank Passbook Copy,Nationalized Scheduled Bank,Yes,Direct Benefit Transfer of MTF
+SCH01,Aadhaar Card,UIDAI,Yes,Biometric authentication and DBT linkage
+SCH01,Marks Memo (SSC / Intermediate / Degree),State Board / University,Yes,Academic qualification proof
+SCH01,Ration Card,Food & Civil Supplies Department,No,Entry of card number for social validation
+SCH02,Degree Convocation / Consolidated Marks Memo,Recognized University,Yes,Proof of >= 60% graduation score
+SCH02,Foreign University Unconditional Offer Letter / I-20,Accredited Foreign Institution,Yes,Proof of foreign graduate admission
+SCH02,Valid Passport & Approved VISA,Passport Office / Foreign Embassy,Yes,Travel and entry clearance verification
+SCH02,Test Score Card (GRE / GMAT / TOEFL / IELTS / PTE),Testing Agency (ETS/IDP/etc.),Yes,Language and entrance proficiency validation
+SCH02,MeeSeva Caste and Income Certificates,MeeSeva,Yes,Social status and Rs. 5L income limit check
+SCH02,Gap / No-Earning Certificate,Mandal Revenue Officer (MRO),Conditional,Required if study gap of 1-6 years exists
+SCH05,Degree Certificate / Marks Memo,University / College,Yes,Verification of 60% eligibility
+SCH05,Bonafide / TC / Residence Certificate,College / Revenue Department,Yes,Nativity and institutional enrollment verification
+SCH07,MeeSeva Caste Certificate,MeeSeva,Yes,Proof of SC category
+SCH07,Parental Income Certificate,MeeSeva,Yes,Proof of income below Rs. 2.00 Lakhs
+SCH07,Aadhaar-Linked Bank Passbook,Nationalized Bank,Yes,DBT disbursement (joint account if minor)
+SCH07,Head Master Covering Letter & Bonafide,School Principal / Head Master,Yes,Certification of non-receipt of other scholarships
+SCH09,Unclean Occupation Certificate,Municipal Health Officer / Panchayat Secretary,Yes,Proof of traditional unclean occupation
+SCH10,MeeSeva Caste & Income Certificates,MeeSeva,Yes,Category and income verification
+SCH10,Date of Birth Certificate / Study Certificate,MeeSeva / School,Yes,Proof of age and class admission eligibility
+SCH11,Date of Birth Certificate,MeeSeva / Hospital / Municipal Corp,Yes,Proof of 5 to 6 years age requirement
+SCH11,Medical Fitness Certificate,Government Medical Board,Yes,Mandatory fitness clearance for HPS admission
+SCH12,Law Degree Certificate,Recognized University,Yes,Proof of LLB completion
+SCH12,Bar Council Enrolment Certificate,State Bar Council,Yes,Proof of professional bar license
+SCH13,SSC Marks Memo (GPA > 7.0),Board of Secondary Education,Yes,Merit verification
+SCH13,7 Years Study Certificates,Schools studied,Yes,Local nativity verification (last 4 of 7 years in TS)
+SCH13,HWO Certificate,Hostel Welfare Officer,Conditional,Required if student resided in Govt hostel for 3 years
+SCH17,Bride & Groom Age Proof (SSC / Aadhaar / Voter ID),Government Authority,Yes,"Verification of age (Bride >= 18, Groom >= 21)"
+SCH17,Marriage Certificate,Registrar of Marriages / Gram Panchayat,Yes,Proof of marriage
+SCH17,Bride Caste & Income Certificate,MeeSeva,Yes,Proof of caste and family income ceiling
+SCH17,Bride Mother Aadhaar & Bank Passbook,Bank / UIDAI,Yes,Cheque / DBT issuance account
+SCH19,Hindu Marriage Registration Certificate,Registrar of Marriages,Yes,Statutory proof of marriage
+SCH19,First Marriage Certificate,Revenue / Gazetted Authority,Yes,Affidavit of first marriage for both parties
+SCH19,Couple Joint Bank Passbook (Bride first),Nationalized Bank,Yes,Creation of joint fixed deposit
+SCH20,MeeSeva Caste Certificate,MeeSeva,Yes,Proof of SC status of householder
+SCH20,Latest Electricity Service Connection Bill,DISCOM,Yes,Verification of consumer number and 0-101 monthly unit consumption
+SCH22,First Information Report (FIR),Police Station (SHO),Yes,Stage 1 atrocity relief sanction
+SCH22,Post Mortem Examination (PME) / Charge Sheet,Police / Forensics,Yes,Stage 2 atrocity relief sanction
+SCH22,Court Conviction Judgment Order,Special / Sessions Court,Yes,Stage 3 final relief release
+SCH23,Graduation Degree Memo,Recognized University,Yes,Eligibility for Civil Services coaching

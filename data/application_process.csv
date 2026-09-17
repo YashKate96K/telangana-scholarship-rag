@@ -1,0 +1,9 @@
+step_number,process_stage,responsible_party,action_description,statutory_timeline
+1,Online Registration,Student,Submit fresh/renewal form on ePASS portal; upload MeeSeva certificates and allotment orders,Within 15 days of admission
+2,Biometric Authentication,Student / MeeSeva,Perform biometric fingerprint authentication linked with Aadhaar,At application submission
+3,College Verification,College Principal / Nodal Officer,"Verify bonafide status, regular attendance (min 75%), certificates; upload hard copies with barcode",Promptly upon registration
+4,Physical Bundle Submission,College Management,Submit verified barcode application bundles and student hard copies to DSCDO/DWO office,Before cutoff dates
+5,Departmental Scrutiny,DSCDO / Welfare Officers,"Cross-verify data against MeeSeva, SSC, and Inter boards; issue sanction orders",Prior to bill generation
+6,Treasury Token & Passing,District Treasury Office (DTO),"Audit budget availability, pass electronic bills, and push payment via e-Kuber / DBT",Quarterly / Yearly payment cycle
+7,Fund Disbursement,Treasury / State Banks,Disburse RTF direct to college bank account and MTF to student's personal account,Quarterly disbursement
+8,Utilization Certification,College Principal,Submit official Utilization Certificates (UC) to DSCDO/DWO,Within 15 days of RTF credit

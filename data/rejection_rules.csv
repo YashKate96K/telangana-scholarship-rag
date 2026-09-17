@@ -1,0 +1,20 @@
+rule_id,scheme_id,rejection_reason,condition_trigger,rectification_path
+REJ01,SCH01,Not a Bonafide Student,Applicant not registered as a regular enrolled student in an affiliated institution,Provide current bonafide and gap certificates via college login
+REJ02,SCH01,Income Ceiling Exceeded,Annual family income exceeds category ceiling,Submit updated MeeSeva income certificate
+REJ03,SCH01,Certificate Rejection,MeeSeva Caste or Income certificate invalid or rejected,Re-upload valid MeeSeva certificates on ePASS portal
+REJ04,SCH01,Management / Spot Admission Quota,Admitted under Category-B Management Quota or unofficial Spot Admission,Ineligible for RTF/MTF reimbursement
+REJ05,SCH01,Attendance Shortage,Student quarterly biometric attendance below 75%,Maintain mandatory 75% attendance; college must re-certify
+REJ06,SCH01,Missing Barcode Hard Copies,College fails to submit signed physical barcode application forms to DSCDO,College management must submit physical hard-copy bundles
+REJ07,SCH01,Same-Level or Second Degree,Applicant applying for a second UG or second PG degree,Remit previous scholarship via challan if applicable; otherwise ineligible
+REJ08,SCH01,Course Duration <= 1 Year / Distance Mode,"Enrolled in Open University, correspondence, or short-term certificate courses",Ineligible under state guidelines
+REJ09,SCH01,Inoperative Bank Account,MTF payment fails and bounces back to e-Kuber,Operate bank account and re-upload active passbook on ePASS
+REJ10,SCH01,Biometric Failure,Fingerprint matching pending or failed on ePASS,Update biometrics at nearest Aadhaar enrollment center
+REJ11,SCH02,Low Qualifying Marks,Graduation aggregate marks below 60%,Non-rectifiable (Mandatory requirement)
+REJ12,SCH02,Multiple Beneficiaries in Family,More than one student from the same household applying for AOVN,Ineligible (Strictly one student per family)
+REJ13,SCH02,Excess Age,Applicant age above 35 years as on 1st July,Ineligible
+REJ14,SCH17,Underage Marriage,Bride aged below 18 or Groom aged below 21 at marriage date,Ineligible (Statutory legal marriage age required)
+REJ15,SCH17,Delayed Application,Application submitted after marriage or less than 1 month before marriage,Apply at least 1 month prior to marriage date
+REJ16,SCH19,Inter Sub-Caste Marriage,Marriage between two different sub-castes within the Scheduled Castes,Ineligible (One spouse must be non-SC and one SC)
+REJ17,SCH19,Second Marriage,Applicant entered into a second marriage (unless widow/widower),Ineligible
+REJ18,SCH20,Meter Not in SC Name,Domestic electricity connection registered under a non-SC individual's name,Transfer meter connection ownership to SC beneficiary
+REJ19,SCH20,Excessive Power Consumption,Monthly domestic electricity usage exceeds 101 units,Ineligible for subsidy for that consumption billing cycle
