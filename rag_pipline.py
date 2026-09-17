@@ -534,7 +534,12 @@ def build_context(results):
 # 10. LLM (Groq)
 # ---------------------------------------------------------------------------
 load_dotenv()
-groq_api_key = os.environ.get("GROQ_API_KEY")
+try:
+    import streamlit as st
+    groq_api_key = st.secrets.get("GROQ_API_KEY") or os.environ.get("GROQ_API_KEY")
+except Exception:
+    groq_api_key = os.environ.get("GROQ_API_KEY")
+
 if not groq_api_key:
     raise ValueError("Groq API key could not be loaded")
 client_llm = Groq(api_key=groq_api_key)
