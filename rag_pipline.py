@@ -20,7 +20,7 @@ import atexit
 # ---------------------------------------------------------------------------
 # 1. Config / paths
 # ---------------------------------------------------------------------------
-DATA_DIR = Path(r"D:\Downloads\RAG_PROJECT_TELANGANA_SS\data")
+DATA_DIR = Path(__file__).resolve().parent / "data"
 #PDF_PATH = Path(r"D:\Downloads\RAG_PROJECT_TELANGANA_SS\ilovepdf_merged.pdf")
 QDRANT_PATH = "./qdrant_db"
 COLLECTION_NAME = "scholarship_documents"
